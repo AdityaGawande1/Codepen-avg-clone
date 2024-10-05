@@ -5,8 +5,8 @@ The CodePen-avg is an clone of a application which is Codepen an  online communi
 It functions as an online code editor and open-source learning environment,
 It is a best tool for the beginner to start codeing in different languages at a time
 It is build by using React which is a JavaScript library .
-CodePen-clone is a social development environment for front-end designers and developers. 
-it makes the developer to code and test that code side by side.
+CodePen-avg is a social development environment for front-end designers and developers. 
+It makes the developer to code and test that code side by side.
 
 Objectives
 •	To create a user friendly interface for coding.
