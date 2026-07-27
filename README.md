@@ -26,4 +26,5 @@ Technology Stack
 •	Backend: Node.js
 
 Conclusion 
-This report provides an overview of the CodePen-avg application. It successfully achieves its objectives and can be further enhanced in the future according to the different users types and can add different languages.
+This report provides an overview of the CodePen-avg application. It successfully achieves its objectives and can be further enhanced in the future according
+the different users types and can add different languages.
