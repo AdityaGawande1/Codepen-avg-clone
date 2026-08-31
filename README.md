@@ -27,4 +27,5 @@ Technology Stack
 
 Conclusion 
 This report provides an overview of the CodePen-avg application. It successfully achieves its objectives and can be further enhanced in the future according
-the different users types and can add different languages.
+the different users types and can add different languages. this is very helpful for the beginners and the developers.
+
